@@ -1,4 +1,3 @@
-![figures/readme.png](https://github.com/datawhalechina/prompt-engineering-for-developers/blob/main/figures/readme.jpeg)
 
 # prompt-engineering-for-developers
 
@@ -76,41 +75,6 @@ LLM 正在逐步改变人们的生活，而对于开发者，如何基于 LLM �
 6. 对抗性提示 Adversarial Prompting @周辉池
 7. 可靠性 Reliability @成剑
 8. 自动 Prompt 工程 Automatic Prompt Engineer @邹雨衡
-
-### 配套视频
-
-中文字幕视频：[吴恩达 x OpenAI的Prompt Engineering课程专业翻译版](https://www.bilibili.com/video/BV1Bo4y1A7FU/?share_source=copy_web) @万礼行
-
-## 致谢
-
-**核心贡献者**
-
-- [邹雨衡-项目负责人](https://github.com/nowadays0421)
-- [长琴](https://yam.gift/)（内容创作者-Datawhale成员-AI算法工程师）
-- [玉琳](https://github.com/Sophia-Huang)（内容创作者-Datawhale成员）
-- [万礼行](https://github.com/leason-wan)（视频翻译者）
-
-
-**其他**
-
-1. 特别感谢 [@Sm1les](https://github.com/Sm1les)、[@LSGOMYP](https://github.com/LSGOMYP) 对本项目的帮助与支持；
-2. 目前，**进阶内容还有部分尚在招募创作者，欢迎有兴趣有精力的同学联系我（姓名：邹雨衡；微信号：logan12120421）**；
-3. 如果有任何想法可以联系我们 DataWhale 也欢迎大家多多提出 issue；
-4. 特别感谢以下为教程做出贡献的同学！
-
-<a href="https://github.com/datawhalechina/prompt-engineering-for-developers/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=datawhalechina/prompt-engineering-for-developers" />
-</a>
-
-Made with [contrib.rocks](https://contrib.rocks).
-
-## 关注我们
-
-<div align=center>
-<p>扫描下方二维码关注公众号：Datawhale</p>
-<img src="figures/qrcode.jpeg" width = "180" height = "180">
-</div>
-Datawhale 是一个专注于数据科学与 AI 领域的开源组织，汇集了众多领域院校和知名企业的优秀学习者，聚合了一群有开源精神和探索精神的团队成员。微信搜索公众号Datawhale可以加入我们。
 
 ## LICENSE
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。
